@@ -1,0 +1,5 @@
+{
+  "name": "ExaPrep AI",
+  "description": "An AI-powered tool to help students prepare for exams by generating practice tests from their course materials, lecture notes, or past exams.",
+  "requestFramePermissions": []
+}
